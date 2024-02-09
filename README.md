@@ -1,0 +1,8 @@
+![feature](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/19b274da-a94d-4ccd-b888-43e6cb6a9b3e)
+![description](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/a2376348-72d5-4dfa-8bec-6e9925ff77dd)
+![description2](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/52a21a3b-af51-475c-8bc2-7621217b57e1)
+![gave_over](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/f1807668-ecb9-4665-8a03-2ba1e684ac3d)
+![level1](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/26c82ce5-3a18-466d-996d-57e614834bd5)
+![level2](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/50be8125-f32f-467f-a252-573949bd114f)
+![level3](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/823852ac-094d-4ee9-9e2b-d6496d4221df)
+![start](https://github.com/shadman85/Fruit-Slicing-Game/assets/66021268/f7b983e0-d91c-4f6a-85e0-9249ad3efa76)
